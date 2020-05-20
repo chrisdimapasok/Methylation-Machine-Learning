@@ -20,3 +20,8 @@ Marioni, R.E., Shah, S., McRae, A.F. et al. DNA methylation age of blood predi
 
 Nannini, D.R., Joyce, B.T., Zheng, Y. et al. Epigenetic age acceleration and metabolic syndrome in the coronary artery risk development in young adults study. Clin Epigenet 11, 160 (2019). https://doi.org/10.1186/s13148-019-0767-1
 
+Thompson, Michael J et al. “An epigenetic aging clock for dogs and wolves.” Aging vol. 9,3 (2017): 1055-1068. doi:10.18632/aging.101211
+
+
+
+
