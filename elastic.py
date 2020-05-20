@@ -95,7 +95,6 @@ smokers()
 
 
 #Process and merge data into one dataframe
-dfIdAge
 dfIdAge= pd.DataFrame(columns=["CGmapID","age"]) 
 dfIdAge
 
