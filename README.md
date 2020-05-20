@@ -1,6 +1,5 @@
 # Genome-Methylation-Analysis
-DNA methylation is a widely used biomarker to study development, disease, and even the molecular proceses of aging. In this analysis, we analyze the bisulfite sequencing methylation data of 34 patient samples. We generated an elastic net regression model based on Horvath's universal epigenetic clock used to predict epigenetic age. The repository also has code to predict additional health outcomes such as gender, weight, BMI, and smoking.
-
+DNA methylation is a widely used biomarker to study development, disease, and even the molecular proceses of aging and mortality. In this analysis, we analyze the bisulfite sequencing methylation data of 34 patient samples. We generated an elastic net regression model based on Horvath's universal epigenetic clock used to predict epigenetic age. The repository also has code to predict additional health outcomes such as gender, weight, and BMI. 
 
 
 
